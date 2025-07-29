@@ -1,29 +1,62 @@
-.ww{
-    background-color: blanchedalmond;
+.yy{
+    color: rgb(255, 255, 255);
     text-align: center;
+
+background-color: aqua;
 }
 body{
-    background-color: black;
+    background-color: bisque;
 }
-.mm{
-    color: yellow;
+.oo{
+    background-color: brown;
+    height: 50px;
+}
+.qq{
     text-align: center;
+    background-color: white;
+    height: 300px;
+    width: 350px;
+    border: 1px solid black;
 }
-.ee{
-    border-radius: 20px;
+.ii{
+    text-align: center;
+    background-color: white;
+    height: 300px;
+    width: 350px;
+     border: 1px solid black;
 }
-.rr{
-    color: yellow;
+.ww{
+    text-align: center;
+    background-color: white;
+    height: 300px;
+    width: 350px;
+     border: 1px solid black;
+}
+.pp{
+    width: 110px;
 }
 .ll{
-   border-radius: 20px; 
+   width: 165px;  
 }
-.gg{
-    color: yellow;
+.tt{
+    width: 110px;
 }
-.vv{
-    border-radius: 20px;
+button{
+    border-radius: 20px ;
+    background-color:black ;
+    color: white;
+    width: 110px;
+    height: 30px;
 }
+
+
+
+
+
+
+
+
+
 
 
 
